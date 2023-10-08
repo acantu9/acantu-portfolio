@@ -1,3 +1,14 @@
+@font-face {
+    font-family: 'ConcertOne';
+    src: url('./ConcertOne/ConcertOne-Regular.ttf') format('truetype'),
+}
+
+* {
+    background-color: rgb(32, 5, 56);
+    color: rgb(138, 43, 226);
+    font-family: 'ConcertOne';
+}
+
 .project1 {
     background-image: url("./img/img1.png");
     width: 1200px;
