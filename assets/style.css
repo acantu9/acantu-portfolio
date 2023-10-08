@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'ConcertOne';
-    src: url('./ConcertOne/ConcertOne-Regular.ttf') format('truetype'),
+    src: url('./ConcertOne/ConcertOne-Regular.ttf') format('truetype');
 }
 
 * {
