@@ -30,6 +30,20 @@
     background-color: rgb(212, 176, 247);
 }
 
+#about-me {
+    display: inline-flex;
+}
+
+#about-me h2 {
+    padding: 0px 5px 0px 60px;
+    text-align: right;
+}
+
+#about-me p {
+    border-left: 3px solid #8a2be2;
+    padding-left: 5px;
+}
+
 .project1 {
     background-image: url("./img/img1.png");
     width: 1200px;
@@ -43,18 +57,4 @@
     background-color: rgb(32, 5, 56);
     padding: 10px;
     text-decoration: none;
-}
-
-#about-me {
-    display: inline-flex;
-}
-
-#about-me h2 {
-    padding: 0px 5px 0px 60px;
-    text-align: right;
-}
-
-#about-me p {
-    border-left: 3px solid #8a2be2;
-    padding-left: 5px;
 }
