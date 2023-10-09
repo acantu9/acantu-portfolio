@@ -30,4 +30,13 @@
     background-image: url("./img/img1.png");
     width: 1200px;
     height: 600px;
+    color: rgb(138, 43, 226);
+    font-family: 'Concert One';
+    font-size: 40px;
+}
+
+.project1 a {
+    background-color: rgb(32, 5, 56);
+    padding: 10px;
+    text-decoration: none;
 }
