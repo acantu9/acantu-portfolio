@@ -9,6 +9,23 @@
     font-family: 'ConcertOne';
 }
 
+#nav-bar {
+    display: flex;
+}
+
+#nav-bar ul {
+    font-size: 20px;
+    display: inline-flex;
+    list-style: none;
+    float: right;
+    padding-left: 700px;
+}
+
+#nav-bar ul a {
+    padding: 5px;
+    text-decoration: none;
+}
+
 .project1 {
     background-image: url("./img/img1.png");
     width: 1200px;
