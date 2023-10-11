@@ -35,26 +35,51 @@
 }
 
 #about-me h2 {
-    padding: 0px 5px 0px 60px;
+    padding: 0px 10px 0px 60px;
     text-align: right;
 }
 
 #about-me p {
-    border-left: 3px solid #8a2be2;
-    padding-left: 5px;
+    border-left: 3px solid rgb(138, 43, 226);
+    padding: 10px 90px 10px 15px;
+}
+
+#projects {
+    display: inline-flex;
+}
+
+#projects h2 {
+    padding: 0px 10px 0px 35px;
+    border-right: 3px solid rgb(138, 43, 226);
+}
+
+.projects {
+    display: block;
+    padding-left: 10px;
 }
 
 .project1 {
     background-image: url("./img/img1.png");
-    width: 1200px;
-    height: 600px;
+    width: 80%;
+    height: 15%;
     color: rgb(138, 43, 226);
     font-family: 'Concert One';
     font-size: 40px;
+    padding-left: 15px;
+    padding-top: 20px;
+    border: 3px solid rgb(138, 43, 226);
 }
 
 .project1 a {
     background-color: rgb(32, 5, 56);
     padding: 10px;
     text-decoration: none;
+}
+
+.projects img {
+    width: 40%;
+    height: 20%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
 }
