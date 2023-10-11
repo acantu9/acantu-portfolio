@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-To navigate this portfolio use the links at the top right to be taken to each respective section: About Me, Projects, Experience and Contact Me.
+Use [this link](https://acantu9.github.io/acantu-portfolio/) to visit my professional portfolio. To navigate the portfolio use the links at the top right of the webpage to be taken to the respective sections: About Me, Projects, Experience and Contact Me.
 
 ## Credits
 
